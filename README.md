@@ -19,7 +19,7 @@ AddictionRecovery is an app built to make alcohol addicts realize the danger the
 
 ## Project done by - 
 
-Srinivasan.M
-Rajamurugan.M
-Naraesh Archun.K
+Srinivasan.M, 
+Rajamurugan.M, 
+Naraesh Archun.K, 
 Sabarishan.M
